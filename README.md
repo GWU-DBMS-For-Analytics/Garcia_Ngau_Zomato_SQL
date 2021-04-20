@@ -18,26 +18,28 @@ Zomato is a project launched in Delhi 12 years ago, and is present in 10000+ cit
 First, the dataset was collected from the Zomato API in the form of .json files (raw data) and sotred in the Comma Separated Value file Zomato.csv. We explored this dataset by visualizing the information that has been fetched, and have a better understanding of the dataset. 
 
 Every Restaurant contains:
-- Restaurant ID: unique ID.    - Average cost for two: Different currencies    - Rating color
-- Restaurant Name              - Currency: Currency of the country             - Rating text
-- Country Code                 - Has table booking: yes/no                     - Votes
-- City                         - Has Online delivery: yes/no
-- Address                      - Is delivering now: yes/no
-- Locality verbose:            - Switch to order menu: yes/no
-   Detailed description of the locality
-- Longitude                    - Prince range
-- Latitude                     - Aggregate Rating: Average rating out of 5
-- Cuisines:                    
-   A list of the cuisines offered by the restaurant.
+- Restaurant ID: unique ID.        
+- Restaurant Name                            
+- Country Code                                      
+- City                          
+- Address                       
+- Locality verbose: Detailed description of the locality
+- Longitude                     
+- Latitude                     
+- Cuisines: A list of the cuisines offered by the restaurant.
+- Average cost for two: Different currencies
+- Currency: Currency of the country
+- Has table booking: yes/no
+- Has Online delivery: yes/no
+- Is delivering now: yes/no
+- Switch to order menu: yes/no
+- Prince range
+- Aggregate Rating: Average rating out of 5
+- Rating color
+- Rating text
+- Votes
 
 
-
-
-
-
-
-
-would like to work on the dataset that we will download from Kaggle. We will then use python to do exploratory data analysis on the dataset to see the type and distribution of each variable. Since we are working in a group, we would like to complete our python code on the Google Colab environment so that both of us can change or add stuff at the same time. 
 Once we have a better understanding of the dataset, we plan to build an entity-relationship model to design the architecture of the database. This will allow us to have a clear vision of our database 
 Then we will build and distribute the different tables by using the pyMySQL environment. 
 One analysis we expect to work on is to visualize the data based on their location, cuisine, price, and ratings. The final goal would be to provide an efficient and easier way for end-users to search for specific information.  
