@@ -1,5 +1,9 @@
 # Garcia_Ngau_Zomato_SQL
 
+### Contributors:
+- Jose Garcia:
+- Kahang Ngau: 
+
 ## Objective:
 
 The goal of this project is to restructure a flattened dataset, and load into a SQL database. We also demonstrated some analysis to demonstrate the convenience to have this dataset stored in a database. Additionally, to provide an efficient and easier way for end-users to search for specific information.  
