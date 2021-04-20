@@ -1,8 +1,8 @@
 # Garcia_Ngau_Zomato_SQL
 
 ### Contributors:
-- Jose Garcia:
-- Kahang Ngau: 
+- Jose Garcia
+- Kahang Ngau 
 
 ## Objective:
 
