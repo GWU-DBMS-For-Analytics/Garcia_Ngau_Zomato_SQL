@@ -3,10 +3,6 @@
 ## Objective:
 
 The goal of this project is to restructure a flattened dataset, and load into a SQL database. We also demonstrated some analysis to demonstrate the convenience to have this dataset stored in a database. Additionally, to provide an efficient and easier way for end-users to search for specific information.  
-
-## Project
- Selected from the project ideas listed in the "Final Project Description" document posted under the blackboard "Assignments" section
- Zomato Restaurants: https://www.kaggle.com/shrutimehta/zomato-restaurants-data
  
 ## Approach
 We worked with Zomato dataset that is stored in Kaggle commnunity. https://www.kaggle.com/shrutimehta/zomato-restaurants-data
