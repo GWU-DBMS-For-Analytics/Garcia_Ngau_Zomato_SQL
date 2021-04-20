@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The goal of this project is to restructure a flattened dataset, and load into a SQL database. We also demonstrated some analysis to demonstrate the convenience to have this dataset stored in a database.
+The goal of this project is to restructure a flattened dataset, and load into a SQL database. We also demonstrated some analysis to demonstrate the convenience to have this dataset stored in a database. Additionally, to provide an efficient and easier way for end-users to search for specific information.  
 
 ## Project
  Selected from the project ideas listed in the "Final Project Description" document posted under the blackboard "Assignments" section
@@ -39,7 +39,7 @@ Every Restaurant contains:
 - Rating text
 - Votes
 
+Then we created in MySQL our database to store the different variables from the database and created relations between the tables by the Restaurant_ID key. 
+![image](https://github.com/GWU-DBMS-For-Analytics/Garcia_Ngau_Zomato_SQL/blob/main/Img/SchemaDB.png)
 
-Once we have a better understanding of the dataset, we plan to build an entity-relationship model to design the architecture of the database. This will allow us to have a clear vision of our database 
-Then we will build and distribute the different tables by using the pyMySQL environment. 
-One analysis we expect to work on is to visualize the data based on their location, cuisine, price, and ratings. The final goal would be to provide an efficient and easier way for end-users to search for specific information.  
+
